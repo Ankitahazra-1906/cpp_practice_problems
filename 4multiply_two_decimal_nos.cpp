@@ -1,3 +1,4 @@
+/*To multiply two decimal numbers*/
 #include<iostream>
 using namespace std;
 int main()
