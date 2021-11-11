@@ -1,3 +1,4 @@
+/*To find the swap of two nos*/
 #include<iostream>
 using namespace std;
 int main()
