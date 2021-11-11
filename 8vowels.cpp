@@ -1,3 +1,4 @@
+/*To check a character is a vowel or consonant*/
 #include<iostream>
 using namespace std;
 int main()
