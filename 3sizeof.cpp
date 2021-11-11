@@ -1,4 +1,4 @@
-/*To finf the size of int,float,char,double*/
+/*To find the size of int,float,char,double*/
 #include<iostream>
 using namespace std;
 int main()
