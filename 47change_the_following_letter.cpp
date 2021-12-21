@@ -1,4 +1,4 @@
-//Program to change every letter in the following string with the following letter in the alphabet
+//Program to change every letter in the given string with the following letter in the alphabet
 #include<iostream>
 using namespace std;
 int main(){
