@@ -1,3 +1,4 @@
+//Program that takes the array of 6 elements and the elements of that array are accessed by the pointer
 #include<iostream>
 using namespace std;
 int main(){
