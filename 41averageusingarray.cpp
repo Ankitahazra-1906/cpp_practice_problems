@@ -1,3 +1,4 @@
+//Program that takes N elements from user,stores data in an user ,stores data in an array and calculate the average of those numbers
 #include<iostream>
 using namespace std;
 int main(){
