@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int y;
-    cout<<"Enter a year: ";
+    cout<<"Enter the year: ";
     cin>>y;
     if(y%4==0)
     {
