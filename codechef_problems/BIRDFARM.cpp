@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	// your code goes here
 	int t,x,y,z;
-	cin>>t;
+	cin>>t; //taking no of test cases as input
 	while(t--){
 	    cin>>x>>y>>z;
 	    if(z%x==0 && z%y==0)
